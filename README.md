@@ -2,6 +2,8 @@
 
 Alfred workflow to search, explore and open Cursor workspaces. 
 
+![Alfred Cursor Workspace Explorer Interface](README.assets/alfred-cursor-interface.png)
+
 ## Requirements
 
 * Python 3
