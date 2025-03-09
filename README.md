@@ -2,7 +2,7 @@
 
 Alfred workflow to search, explore and open Cursor workspaces. 
 
-![Alfred Cursor Workspace Explorer Interface](README.assets/alfred-cursor-interface.png)
+![Alfred Cursor Workspace Explorer Interface](README.assets/Screenshot%202025-03-09%20at%202.11.00%20PM.png)
 
 ## Requirements
 
