@@ -2,12 +2,6 @@
 
 Alfred workflow to search, explore and open Cursor workspaces. 
 
-> Screenshots coming soon! The workflow allows you to:
-> - Browse your Cursor workspaces in Alfred
-> - Search through workspace directories with fuzzy matching
-> - Quickly open workspaces in Cursor
-> - Navigate through nested workspace folders
-
 ## Requirements
 
 * Python 3
