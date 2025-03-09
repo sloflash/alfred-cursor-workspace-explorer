@@ -8,6 +8,7 @@ Alfred workflow to search, explore and open Cursor workspaces.
 
 * Python 3
 * Cursor
+* `cursor` command in PATH (Install via Cursor: Command Palette → Install 'cursor' command)
 
 ## Setup
 
