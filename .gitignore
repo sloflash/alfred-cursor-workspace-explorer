@@ -1,9 +1,6 @@
 ### Python.gitignore
 
-# Source files
-/src/
-
-# But allow the workflow file
+# Allow the workflow file
 !Cursor\ Workspace\ Explorer.alfredworkflow
 
 # Byte-compiled / optimized / DLL files
